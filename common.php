@@ -1,6 +1,4 @@
-<!--
-Name            : Suriyaraj Dhanasekaran
-Student#        : 87500147   
+<!-- 
 Description     : This PHP File contains the common code shared between search-all.php and search-kevin.php
 -->
 

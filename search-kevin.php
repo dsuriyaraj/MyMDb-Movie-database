@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<!--
-Name            : Suriyaraj Dhanasekaran
-Student#        : 87500147   
+<!-- 
 Description     : For the given actor, it checks in the central database to get all the movies the actor and Kevin Bacon have acted together.
 -->
 

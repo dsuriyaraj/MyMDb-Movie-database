@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--
-Name            : Suriyaraj Dhanasekaran
-Student#        : 87500147
-Tasks Completed : New movie will be added to the private remote database and then its corresponding record will be updated/inserted in the directors_genre table.   
+<!--  
 Description: 
 	1.User enters the movie details.
 	2.Perform the validation for the entered details.   

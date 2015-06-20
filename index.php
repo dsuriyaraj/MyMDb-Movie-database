@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--
-Name            : Suriyaraj Dhanasekaran
-Student#        : 87500147
--->
+
 <?php include("top.html"); ?>
 
 	<h1>The One Degree of Kevin Bacon</h1>
