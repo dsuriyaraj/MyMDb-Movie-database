@@ -1,0 +1,63 @@
+/*
+Name            : Suriyaraj Dhanasekaran
+Student#        : 87500147
+Description     : This is the CSS file for this assignment
+*/
+
+body{
+	margin: 0pt;
+	padding: 0pt;
+	background-color: #dad9d4;
+	font-family: 'Verdana', 'Tahoma', sans-serif;
+	color: #2E2E2E;
+}
+
+#frame{
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+	width: 90%;
+	background-color: white;
+	font-family: sans-serif,Verdana;
+}
+
+#banner,#w3c {
+	background-image: url("images/banner-background.png");
+	text-align: left;
+	color: white;
+	padding: 1em;
+}
+
+img, table, form{
+	max-width: 100%;
+}
+
+form{
+	width: 21.75em;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#w3c{
+	position: relative;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: 30%;
+	width: 40%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	border: 1px solid #D8D8D8;
+}
+
+tr,td,th{
+	border-width: 0px;
+}
+
+.odd{
+	background-color:  #dad9d4;
+}
+
